@@ -1,5 +1,5 @@
 
-# CustomAllocator Code Repository
+# CustomAllocator
 
 Welcome to the CustomAllocator Code Repository. This repository contains the source code and related materials for CustomAllocator, including custom memory allocation implementations and demonstration programs. This is also the fourth project of CSCI2021.
 
